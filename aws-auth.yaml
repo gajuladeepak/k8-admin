@@ -9,7 +9,7 @@ data:
   mapUsers: |
     - groups:
       - expense-trainee
-      userarn: arn:aws:iam::315069654700:user/suresh 
+      userarn: arn:aws:iam::471112969945:user/suresh
       username: suresh
     - groups:
       - expense-admin
